@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam Prajapati</h1>
 
-<p align="left">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow"/>
-  </a>
-</p>
-
 🌱 Currently learning **Full-Stack Web Development**  
 💻 Passionate about coding, problem-solving, and creating impactful projects  
 🎵 I also make **music remixes** in my free time  
